@@ -12,3 +12,6 @@ Introducing a simple, yet effective, Vanilla JavaScript-based application design
 - Streamlined Productivity: Stay on top of your daily tasks, increase productivity, and maintain a clear overview of your pending and completed activities.
 
  
+## App Interface
+![Screenshot 2023-10-03 170057](https://github.com/Rupal-Gupta29/TO-DO-App-JavaScript/assets/70842313/ba02dfd2-74b9-4b0a-9256-d3c47bc6847e)
+
